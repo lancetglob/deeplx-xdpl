@@ -20,7 +20,7 @@
     }
   ],
   "main": "src/index.ts",
-  "name": "deeplx",
+  "name": "deeplx-xdpl",
   "observability": {
     "enabled": false,
     "head_sampling_rate": 1,
