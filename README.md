@@ -376,7 +376,7 @@ Refer to [Advanced Options](https://github.com/Byaidu/PDFMathTranslate?tab=readm
 
 ## 🚀 Self-deployment
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/xixu-me/DeepLX)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/lancetglob/deeplx-xdpl)
 
 ### Prerequisites
 
